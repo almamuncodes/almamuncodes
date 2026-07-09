@@ -102,10 +102,7 @@
 
 ### 📊 GitHub Stats & Analytics
 
-<p align="center">
-  <img src="./generated/overview.svg" alt="GitHub stats"/>
-  <img src="./generated/languages.svg" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=almamuncodes&theme=tokyonight" alt="GitHub Streak"/>
