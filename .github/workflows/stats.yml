@@ -1,0 +1,20 @@
+name: generate stats images
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: jstrieb/github-stats@master
+        with:
+          username: almamuncodes
+          exclude_repos:
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
