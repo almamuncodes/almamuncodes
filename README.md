@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋 I'm MD Almamun
 
-<!--
-**almamuncodes/almamuncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Web Developer
 
-Here are some ideas to get you started:
+I build modern, scalable web applications using the MERN Stack and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Advanced Next.js
+- 💼 Building real-world SaaS applications
+- 🎯 Goal: Become a world-class Full Stack Developer
+- 🇧🇩 Based in Bangladesh
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React
+- Next.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🌟 Featured Project
+
+### Easy Mess
+
+A modern Mess Management System with
+
+- Authentication
+- Meal Management
+- Expense Tracking
+- Dashboard
+- Role Based Access
+- Responsive UI
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn:
+- Portfolio:
+- Email:
