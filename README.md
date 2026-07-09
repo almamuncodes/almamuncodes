@@ -3,7 +3,7 @@
 <!-- ============================= -->
 <!-- 👇 এখানে তোমার নিজের banner image টা বসিয়ে দাও (repo তে upload করে path দিবে, অথবা সরাসরি link) -->
 <p align="center">
-  <img src="https://ibb.co.com/JRKG89zn" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/3y7jVn01/gihub-banar.png" alt="Banner" width="100%">
 </p>
 
 <!-- ============================= -->
