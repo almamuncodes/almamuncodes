@@ -1,62 +1,130 @@
-# Hi there 👋 I'm MD Almamun
+# ──────────────────────────────────────
+#            HERO SECTION
+# ──────────────────────────────────────
 
-### 💻 Full Stack Web Developer
+[ Professional Banner ]
 
-I build modern, scalable web applications using the MERN Stack and Next.js.
+👋 Hi, I'm MD Al-Mamun
 
----
+💻 Junior Full Stack Developer
 
-## 🚀 About Me
+🖋️ Typing Animation
+• Full Stack Developer
+• MERN Stack Developer
+• Next.js Developer
+• React Developer
+• Problem Solver
+• Always Learning New Technologies
 
-- 🌱 Currently learning Advanced Next.js
-- 💼 Building real-world SaaS applications
-- 🎯 Goal: Become a world-class Full Stack Developer
-- 🇧🇩 Based in Bangladesh
+--------------------------------------------------
 
----
+# 🙋 About Me
 
-## 🛠 Tech Stack
+• 🎓 Polytechnic Student
+• 💻 Passionate about Full Stack Web Development
+• 🚀 Love Building Modern Web Applications
+• 📚 Currently Learning Advanced Web Technologies
+• 🎯 Goal: Become a Skilled Software Engineer
+• ⚡ Always Curious to Learn Something New
 
-### Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React
-- Next.js
+--------------------------------------------------
 
-### Backend
-- Node.js
-- Express.js
+# 🌐 Follow Me
 
-### Database
-- MongoDB
+LinkedIn
+LeetCode
+Discord
+Facebook
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+(All icons are clickable.)
 
----
+--------------------------------------------------
 
-## 🌟 Featured Project
+# 💻 Tech Stack
 
-### Easy Mess
+## 📝 Programming Languages
 
-A modern Mess Management System with
+HTML
+CSS
+JavaScript
+TypeScript
 
-- Authentication
-- Meal Management
-- Expense Tracking
-- Dashboard
-- Role Based Access
-- Responsive UI
+---------------------------------------
 
----
+## 🎨 CSS Frameworks & Libraries
 
-## 📫 Connect with Me
+Tailwind CSS
 
-- LinkedIn:
-- Portfolio:
-- Email:
+---------------------------------------
+
+## ⚛️ JavaScript Frameworks & Libraries
+
+React.js
+Next.js
+Express.js
+
+---------------------------------------
+
+## 🗄️ Database
+
+MongoDB
+
+---------------------------------------
+
+## ☁️ Development Platforms
+
+Node.js
+Vercel
+Firebase
+Netlify
+Postman
+
+---------------------------------------
+
+## 🎨 Design & Graphics
+
+Figma
+Adobe Illustrator
+Adobe Photoshop
+
+---------------------------------------
+
+## 🛠️ Tools & Technologies
+
+Windows
+Git
+GitHub
+VS Code
+npm
+
+--------------------------------------------------
+
+# 📊 GitHub Analytics
+
+GitHub Stats
+
+GitHub Streak Stats
+
+Most Used Languages
+
+--------------------------------------------------
+
+# 🐍 Contribution Snake
+
+Snake Animation
+
+--------------------------------------------------
+
+# 🏆 GitHub Achievements
+
+GitHub Trophies
+
+--------------------------------------------------
+
+# 👀 Profile Visitors
+
+Profile View Counter
+
+--------------------------------------------------
+
+✨ Thanks for Visiting My Profile
