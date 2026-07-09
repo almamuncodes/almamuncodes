@@ -103,8 +103,8 @@
 ### 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almamuncodes&show_icons=true&theme=tokyonight&count_private=true" alt="Al-Mamun's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamuncodes&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="./generated/overview.svg" alt="GitHub stats"/>
+  <img src="./generated/languages.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
