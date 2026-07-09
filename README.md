@@ -1,130 +1,112 @@
-# ──────────────────────────────────────
-#            HERO SECTION
-# ──────────────────────────────────────
+<!-- ============================ -->
+<!--           BANNER            -->
+<!-- ============================ -->
 
 [ Professional Banner ]
 
-👋 Hi, I'm MD Al-Mamun
+# 👋 Hi, I'm MD Al-Mamun
 
-💻 Junior Full Stack Developer
+### 💻 Junior Full Stack Developer
 
-🖋️ Typing Animation
-• Full Stack Developer
-• MERN Stack Developer
-• Next.js Developer
-• React Developer
-• Problem Solver
-• Always Learning New Technologies
+<p align="center">
+Typing Animation
+</p>
 
---------------------------------------------------
+---
 
 # 🙋 About Me
 
-• 🎓 Polytechnic Student
-• 💻 Passionate about Full Stack Web Development
-• 🚀 Love Building Modern Web Applications
-• 📚 Currently Learning Advanced Web Technologies
-• 🎯 Goal: Become a Skilled Software Engineer
-• ⚡ Always Curious to Learn Something New
+- 💻 Passionate about Full Stack Web Development
+- 🚀 Love Building Modern & Scalable Web Applications
+- 🌱 Currently Learning Advanced Web Technologies
+- 🎯 Goal: Become a Skilled Software Engineer
+- ⚡ Always Exploring New Technologies
+- 🤝 Open to Learning & Collaboration
 
---------------------------------------------------
+---
 
 # 🌐 Follow Me
 
-LinkedIn
-LeetCode
-Discord
-Facebook
+<p align="center">
 
-(All icons are clickable.)
+LinkedIn | LeetCode | Discord | Facebook
 
---------------------------------------------------
+</p>
+
+---
 
 # 💻 Tech Stack
 
 ## 📝 Programming Languages
 
-HTML
-CSS
-JavaScript
-TypeScript
+HTML • CSS • JavaScript • TypeScript
 
----------------------------------------
+---
 
 ## 🎨 CSS Frameworks & Libraries
 
 Tailwind CSS
 
----------------------------------------
+---
 
 ## ⚛️ JavaScript Frameworks & Libraries
 
-React.js
-Next.js
-Express.js
+React.js • Next.js • Express.js
 
----------------------------------------
+---
 
 ## 🗄️ Database
 
 MongoDB
 
----------------------------------------
+---
 
 ## ☁️ Development Platforms
 
-Node.js
-Vercel
-Firebase
-Netlify
-Postman
+Node.js • Firebase • Vercel • Netlify • Postman
 
----------------------------------------
+---
 
 ## 🎨 Design & Graphics
 
-Figma
-Adobe Illustrator
-Adobe Photoshop
+Figma • Adobe Illustrator • Adobe Photoshop
 
----------------------------------------
+---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
-Windows
-Git
-GitHub
-VS Code
-npm
+Windows • Git • GitHub • VS Code • npm
 
---------------------------------------------------
+---
 
 # 📊 GitHub Analytics
 
 GitHub Stats
 
-GitHub Streak Stats
+GitHub Streak
 
 Most Used Languages
 
---------------------------------------------------
-
-# 🐍 Contribution Snake
-
-Snake Animation
-
---------------------------------------------------
+---
 
 # 🏆 GitHub Achievements
 
 GitHub Trophies
 
---------------------------------------------------
+---
 
-# 👀 Profile Visitors
+# 🐍 Contribution Snake
 
-Profile View Counter
+Snake Animation
 
---------------------------------------------------
+---
 
-✨ Thanks for Visiting My Profile
+# 👀 Profile Views
+
+Visitor Counter
+
+---
+
+<h3 align="center">
+Thanks for Visiting ❤️
+</h3>
